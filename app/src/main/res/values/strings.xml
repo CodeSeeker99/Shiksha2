@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shiksha</string>
+    <string name="Hint">Enter Answer</string>
+    <string name="title_activity_result_analyser">ResultAnalyser</string>
+</resources>
